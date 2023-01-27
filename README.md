@@ -1,5 +1,5 @@
 👋 - Hi, I’m @misacodes.\
-👀 - I’m fascinated by social and economic networks and social media analytics.\
+👀 - I’m fascinated by macroeconomics, networks and social media analytics.\
 🌱 - I’m currently learning C# and sharpening my 🐍 skills.\
 🚀 - I’m looking to collaborate on any social and econ network projects.\
 \
