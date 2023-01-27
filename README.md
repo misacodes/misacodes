@@ -1,9 +1,9 @@
-- 👋 - Hi, I’m @misacodes
-- 👀 - I’m fascinated by social and economic networks and social media analytics.
-- 🌱 - I’m currently learning C# and sharpening my 🐍 skills.
-- 🚀 - I’m looking to collaborate on any social and econ network projects.
-
-- 📫 fric.michaela@gmail.com
+👋 - Hi, I’m @misacodes.\
+👀 - I’m fascinated by social and economic networks and social media analytics.\
+🌱 - I’m currently learning C# and sharpening my 🐍 skills.\
+🚀 - I’m looking to collaborate on any social and econ network projects.\
+\
+📫 fric.michaela@gmail.com\
 
 <!---
 misacodes/misacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
