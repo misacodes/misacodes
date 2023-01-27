@@ -1,4 +1,4 @@
-👋 - Hi, @misacodes here, or at least she tries to.\
+👋 - Hi, @misacodes here.\
 👀 - I’m fascinated by macroeconomics, networks and social media analytics.\
 🌱 - I’m currently learning C# and sharpening my 🐍 skills.\
 🚀 - I’m looking to collaborate on any social and econ network projects.\
