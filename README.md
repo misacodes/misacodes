@@ -1,5 +1,5 @@
 👋 - Hi, @misacodes / Michaela Fricova here.\
-👀 - I’m fascinated by behavioural science, networks and macroeconomics.\
+👀 - I’m fascinated by macroeconomics, behavioural science and networks.\
 🌱 - I’m currently learning C# and sharpening my 🐍 skills.\
 🚀 - I’m looking to collaborate on any behavioural science or social network analysis projects.\
 \
